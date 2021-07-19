@@ -40,7 +40,9 @@ if __name__ == '__main__':
     print(c)
     d = Rotdec(n, c) 
     print(d)
-        
+    
+    
+    
 
          
 

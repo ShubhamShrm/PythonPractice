@@ -25,7 +25,7 @@ def ROTnDec(n, s):
 
 if __name__ == '__main__':
     secretmsg = 'I am batman!'
-    n = 13
+    n = 5
     encmsg = ROTnEnc(n, secretmsg)
     print(encmsg)
     
